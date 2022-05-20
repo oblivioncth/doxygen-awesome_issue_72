@@ -1,0 +1,16 @@
+/*! @mainpage Table Image Color Inversion MRE
+ *
+ *	@section images Images
+ *	
+ *	@image{inline} html test-image-1.png
+ *	@image{inline} html test-image-2.png
+ *
+ *  @section table_images Images in table
+ *
+ *  <table>
+ *  <caption>It's a table</caption>
+ *  <tr><th>Column 1  <th>Column 2
+ *  <tr><td>Row 1     <td>@image{inline} html test-image-1.png
+ *  <tr><td>Row 2     <td>@image{inline} html test-image-2.png
+ *  </table>
+ */

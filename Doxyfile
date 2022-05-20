@@ -1,0 +1,7 @@
+OUTPUT_DIRECTORY       = out
+INPUT                  = in
+GENERATE_LATEX         = NO
+HTML_EXTRA_STYLESHEET  = theme/doxygen-awesome.css
+HTML_HEADER            = theme/header.html
+HTML_EXTRA_FILES       = theme/doxygen-awesome-darkmode-toggle.js
+IMAGE_PATH             = image
